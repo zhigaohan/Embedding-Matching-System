@@ -1,5 +1,4 @@
 # Embedding-Matching-System
-# Text semantic search
 
 This example shows how to build an end-to-end real-time text semantic search:
 1. Extract text embeddings of Wikipedia titles from BigQuery, 
